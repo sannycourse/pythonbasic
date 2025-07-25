@@ -63,7 +63,7 @@ print("Technology" in univerysityName)
 
 # String method
 
-#Slicing - cut a specific part of the string
+# Slicing - cut a specific part of the string
 animalName = "Elephant"
 finalString = animalName[2:6] 
 print(finalString)  # Output: Ele
@@ -123,6 +123,74 @@ else:
   print("already available")
 
 
+
+# What you have lear today ?
+"""
+print()
+comments
+variables
+data types
+strings and string slicing
+basic if-else logic
+loops (for)
+string methods
+boolean logic
+"""
+
+
+
+
+# Day 1
+# Task => Practice more string methods
+
+"""
+String Method Practise Tasks: 1
+
+my_string = "  Welcome to Python Bootcamp! Let's learn Python.  "
+
+Remove leading and trailing spaces
+Convert to lowercase
+Convert to uppercase
+Replace "Python" with "JavaScript"
+Count how many times "Python" appears
+Check if the string ends with "."
+Split the string by "!"
+Print the length of the original string
+
+
+
+Task 2: 
+name = "John"
+age = 25
+country = "India"
+
+Format and print this sentence using an f-string:
+"My name is John, I am 25 years old and I live in India."
+
+
+Task 3:
+Write a for loop to print each letter in the string "Artificial Intelligence" and also count length and also how many vowels are there in it? - 3 questions
+
+
+
+Task 4: If-Else Practice
+Create a variable score = 85
+🔹 Write a condition:
+If score is 90 or above → print "Excellent"
+If score is between 70 and 89 → print "Good"
+If score is below 70 → print "Needs Improvement"
+
+
+Task 5: String Slicing Practice
+Use this string: course_name = "Python Programming Language"
+
+Print:
+"Python" using slicing
+"Programming" using slicing
+"Language" using slicing
+The reversed string of course_name
+
+"""
 
 
 
